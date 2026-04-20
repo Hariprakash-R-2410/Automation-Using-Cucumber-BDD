@@ -12,7 +12,7 @@ The framework helps in creating readable, maintainable, and scalable test automa
 - Java
 - Selenium WebDriver
 - Cucumber (BDD)
-- TestNG / JUnit (mention what you used)
+- TestNG / JUnit 
 - Maven
 
 ---
